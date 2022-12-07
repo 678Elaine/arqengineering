@@ -99,7 +99,7 @@
                             </div>             
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="index.php" class="btn">Logout</a>
+					<button> <a href="index.php" class="btn">Logout</a></button>
                             </div>
                             
                             <!-- Mobile Menu -->
