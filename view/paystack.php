@@ -23,9 +23,7 @@
         <button type="submit" onclick="payWithPaystack()"> Pay </button>
     </form>
     <script src= "../js/payment.js"></script>
-<?php
-  header("../view/login.php");
-?>
+
 
     </div>
 </body>
