@@ -29,7 +29,7 @@ if (isset($_POST['save'])){
 
  var_dump($Save);
 
- header("location: ../view/login.php");
+ header("location: ../view/paystack.php");
 }
 
 ?>
