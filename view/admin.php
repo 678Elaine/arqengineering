@@ -85,31 +85,21 @@
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="index.php">Home</a></li>
-                                            <li><a href="about.php">About</a></li>
-                                            <li><a href="project.php">Projects</a></li>
-                                            <li><a href="services.php">Services</a></li>
-                                            <li><a href="blog.php">Blog</a>
-                                                <ul class="submenu">
-                                                    <li><a href="blog.php">Blog</a></li>
-                                                    <li><a href="single-blog.php">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pages</a>
-                                                <ul class="submenu">
-                                                    <li><a href="elements.php">Element</a></li>
-                                                    <li><a href="project_details.php">Projects Details</a></li>
-                                                    <li><a href="services_details.php">Services Details</a></li>
-                                                </ul>
+                                            <li><a href="admin.php">Home</a></li>
+                                            <li><a href="viewappointment.php">Appointments</a></li>
                                             
-                                            <li><a href="contact.php">Contact</a></li>
+                                                
+                                           
+                                            
+                                            
+                                        
                                         </ul>
                                     </nav>
                                 </div>
                             </div>             
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="view/register.php" class="btn">Logout</a>
+                                    <a href="index.php" class="btn">Logout</a>
                             </div>
                             
                             <!-- Mobile Menu -->
