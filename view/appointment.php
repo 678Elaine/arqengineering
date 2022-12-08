@@ -96,7 +96,7 @@ require('../settings/core.php');
                             </div>             
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="../index.php" class="btn">Logout</a>
+                                    <a href="../actions/logout.php" class="btn"> Logout </a>
                             </div>
                             <!-- Mobile Menu -->
                             <div class="col-12">
@@ -206,7 +206,7 @@ require('../settings/core.php');
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <input class="form-control valid" name="number" id="number" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your mobile number'" placeholder="Email">
+                                        <input class="form-control valid" name="number" id="number" type="text" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your mobile number'" placeholder="Phone number">
                                     </div>
                                 </div>
                                 <div class="col-12">
