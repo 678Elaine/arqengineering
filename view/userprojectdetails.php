@@ -12,19 +12,19 @@ require('../settings/core.php');
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
-		<link rel="shortcut icon" type="image/x-icon" href="../view/assets/img/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 
 		<!-- CSS here -->
-            <link rel="stylesheet" href="../view/assets/css/bootstrap.min.css">
-            <link rel="stylesheet" href="../view/assets/css/owl.carousel.min.css">
-            <link rel="stylesheet" href="../view/assets/css/slicknav.css">
-            <link rel="stylesheet" href="../view/assets/css/animate.min.css">
-            <link rel="stylesheet" href="../view/assets/css/magnific-popup.css">
-            <link rel="stylesheet" href="../view/assets/css/fontawesome-all.min.css">
-            <link rel="stylesheet" href="../view/assets/css/themify-icons.css">
-            <link rel="stylesheet" href="../view/assets/css/slick.css">
-            <link rel="stylesheet" href="../view/assets/css/nice-select.css">
-            <link rel="stylesheet" href="../view/assets/css/style.css">
+            <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+            <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+            <link rel="stylesheet" href="assets/css/slicknav.css">
+            <link rel="stylesheet" href="assets/css/animate.min.css">
+            <link rel="stylesheet" href="assets/css/magnific-popup.css">
+            <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+            <link rel="stylesheet" href="assets/css/themify-icons.css">
+            <link rel="stylesheet" href="assets/css/slick.css">
+            <link rel="stylesheet" href="assets/css/nice-select.css">
+            <link rel="stylesheet" href="assets/css/style.css">
    </head>
 
    <body>
@@ -34,7 +34,7 @@ require('../settings/core.php');
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="../view/assets/img/logo/loder-logo.png" alt="">
+                    <img src="assets/img/logo/loder-logo.png" alt="">
                 </div>
             </div>
         </div>
@@ -74,9 +74,9 @@ require('../settings/core.php');
                             <div class="col-xl-2 col-lg-2 col-md-1">
                                 <div class="logo">
                                     <!-- logo-1 -->
-                                    <a href="index.html" class="big-logo"><img src="../view/assets/img/logo/logo.png" alt=""></a>
+                                    <a href="index.html" class="big-logo"><img src="view/assets/img/logo/logo.png" alt=""></a>
                                     <!-- logo-2 -->
-                                    <a href="index.html" class="small-logo"><img src="../view/assets/img/logo/loder-logo.png" alt=""></a>
+                                    <a href="index.html" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-8 col-lg-8 col-md-8">
@@ -84,10 +84,10 @@ require('../settings/core.php');
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="../view/home.php">Home</a></li>
-                                            <li><a href="../view/appointment.php">Services</a></li>
+                                            <li><a href="home.php">Home</a></li>
+                                            <li><a href="appointment.php">Services</a></li>
                                         
-                                            <li><a href="../view/userprojectdetails.php">Project Details</a>
+                                            <li><a href="userprojectdetails.php">Project Details</a>
                                                 
                                             </li>
                                             
