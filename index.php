@@ -303,7 +303,7 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Covi-19 Response Cnter</a></h4>
+                                                    <h4><a href="project_details.html">Covid-19 Response Center</a></h4>
                                                     <h4><a href="project_details.html">Ghana</a></h4>
                                                 </div>
                                             </div>
