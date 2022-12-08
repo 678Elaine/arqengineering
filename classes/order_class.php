@@ -51,7 +51,20 @@ function select_oneappointment_class($customerid){
     return $this->db_fetch_one("SELECT `date`, `time` from appointment where customer_id = '$customerid'");
 }
 
+function select_allappointmentclass(){
+    return $this->db_fetch_all("SELECT * from appointment");
+}
 
+function update_order_class($id, $updateresponse){
+    $sql4 = "UPDATE `admin` set `admin_response`='$updateresponse' where orderid='$id'";
+             return $this->db_query($sql4);
+    
+    }
+
+    function delete_oneorderclass($id){
+        return $this -> db_query("DELETE FROM `Admin` WHERE orderid=$id");
+    }
+    
 }
 
 ?>
