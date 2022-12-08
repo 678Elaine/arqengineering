@@ -43,7 +43,7 @@
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
-       <div class="header-area header-transparent">
+        <div class="header-area header-transparent">
             <div class="main-header ">
                 <div class="header-top d-none d-lg-block">
                    <div class="container-fluid">
@@ -51,9 +51,9 @@
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="header-info-left">
                                     <ul>     
-                                        <li>+(123) 1234-567-8901</li>
-                                        <li>info@domain.com</li>
-                                        <li>Mon - Sat 8:00 - 17:30, Sunday - CLOSED</li>
+                                        <li>+233 24 689 7189</li>
+                                        <li>arqengineering@gmail.com</li>
+                                        <li>Mon - Sat 8:00 - 17:00, Sunday - CLOSED</li>
                                     </ul>
                                 </div>
                                 <div class="header-info-right">
@@ -85,23 +85,21 @@
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="admin.php">Home</a></li>
-                                            <li><a href="viewappointment.php">Appointments</a></li>
-                                            
-                                                
-                                           
-                                            
-                                            
+                                            <li><a href="../view/admin.php">Home</a></li>
+                                            <li><a href="../view/viewappointment.php">Appointments</a></li>
                                         
+                                            <li><a href="../view/vieworders.php"> Orders </a>
+                                                
+                                            </li>
+                                            
                                         </ul>
                                     </nav>
                                 </div>
                             </div>             
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-				 <a href="../index.php" class="btn">Logout</a>
+                                    <a href="../index.php" class="btn"> Logout </a>
                             </div>
-                            
                             <!-- Mobile Menu -->
                             <div class="col-12">
                                 <div class="mobile_menu d-block d-lg-none"></div>
@@ -118,13 +116,13 @@
         <!-- slider Area Start-->
         <div class="slider-area ">
             <div class="slider-active">
-                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="../view/assets/img/hero/h1_hero.jpg">
+                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-11">
                                 <div class="hero__caption">
                                     <div class="hero-text1">
-                                        <span data-animation="fadeInUp" data-delay=".3s">hand car wash and detailing service</span>
+                                        <span data-animation="fadeInUp" data-delay=".3s">engineering services</span>
                                     </div>
                                     <h1 data-animation="fadeInUp" data-delay=".5s">ARQ </h1>
                                     <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
@@ -139,18 +137,18 @@
                         </div>
                     </div>
                 </div>
-                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="../view/assets/img/hero/h1_hero.jpg">
+                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-11">
                                 <div class="hero__caption">
                                     <div class="hero-text1">
-                                        <span data-animation="fadeInUp" data-delay=".3s">hand car wash and detailing service</span>
+                                        <span data-animation="fadeInUp" data-delay=".3s">electrics and electronice</span>
                                     </div>
                                     <h1 data-animation="fadeInUp" data-delay=".5s">advanced</h1>
                                     <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
-                                        <h2>Construction</h2>
-                                        <h2>Construction</h2>
+                                        <h2>ARQ Engineering</h2>
+                                        <h2>ARQ Engineering</h2>
                                     </div>
                                     <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
                                         <span><a href="services.html">Our Services</a></span>
