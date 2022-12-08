@@ -303,8 +303,8 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                    <h4><a href="project_details.html">Covi-19 Response Cnter</a></h4>
+                                                    <h4><a href="project_details.html">Ghana</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -315,8 +315,8 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                   <h4><a href="project_details.html">Shangai Tower</a></h4>
+                                                    <h4><a href="project_details.html">China</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -327,8 +327,8 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                   <h4><a href="project_details.html">Beau Maison</a></h4>
+                                                    <h4><a href="project_details.html">	Ghana </a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -351,8 +351,8 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                   <h4><a href="project_details.html">Shangai Tower</a></h4>
+                                                    <h4><a href="project_details.html">China</a></h4>
                                                 </div>
                                             </div>
                                         </div>
