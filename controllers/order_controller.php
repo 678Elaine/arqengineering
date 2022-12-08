@@ -71,6 +71,21 @@ function check_appointment($customerid){
     return $checkappointment->select_oneappointment_class($customerid);
 }
 
+function select_allappointment(){
+    $checkappointment = new Order();
+    return $checkappointment->select_allappointmentclass();
+}
+
+function update_order($id, $updateresponse)
+{
+    $updateoneorder = new Order();
+    return $updateoneorder->update_order_class($id, $updateresponse);
+}
+
+function delete_oneorder($id){
+    $deleteorder = new Order();
+    return $deleteorder -> delete_oneorderclass($id);
+}
 
 ?>
 
