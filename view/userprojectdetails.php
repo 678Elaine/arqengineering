@@ -42,7 +42,7 @@ require('../settings/core.php');
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
-       <div class="header-area header-transparent">
+        <div class="header-area header-transparent">
             <div class="main-header ">
                 <div class="header-top d-none d-lg-block">
                    <div class="container-fluid">
@@ -84,10 +84,10 @@ require('../settings/core.php');
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="../view/home.php">Home</a></li>
-                                            <li><a href="../view/appointment.php">Services</a></li>
+                                            <li><a href="../view/admin.php">Home</a></li>
+                                            <li><a href="../view/viewappointment.php">Appointments</a></li>
                                         
-                                            <li><a href="../view/userprojectdetails.php">Project Details</a>
+                                            <li><a href="../view/vieworders.php"> Orders </a>
                                                 
                                             </li>
                                             
@@ -97,7 +97,7 @@ require('../settings/core.php');
                             </div>             
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="index.php" class="btn"> Logout </a>
+                                    <a href="../index.php" class="btn"> Logout </a>
                             </div>
                             <!-- Mobile Menu -->
                             <div class="col-12">
@@ -178,11 +178,7 @@ require('../settings/core.php');
 
    <?php     
 function display_allorder_fxn(){
-    $userid = $_SESSION['customer_id'];
-    echo $userid;
-
-    
-$userorder = select_oneorderuser($userid);
+$userorder = select_allorder_user();
     echo
          "
         <h3> Message </h3>
@@ -208,10 +204,10 @@ foreach($userorder as $x)
         <td>".$x['order_desc']."</td>
         <td>".$x['admin_response']."</td>
         <td>
-        <button type ='button' name = 'update'> <a href = '../actions/updateorder.php?id=".$x['orderid']."'> Update </a></button>
+        <button type ='button' name = 'update'> <a href = '../actions/admin_update.php?id=".$x['orderid']."'> Update </a></button>
          </td>
         <td>
-        <button type ='button' name = 'delete' ><a href = '../actions/deleteorder.php?id=".$x['orderid']."'> Delete </a></button>
+        <button type ='button' name = 'delete' ><a href = '../actions/admin_delete.php?id=".$x['orderid']."'> Delete </a></button>
         </td>
         ";
 
