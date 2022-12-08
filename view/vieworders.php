@@ -84,10 +84,10 @@ require('../settings/core.php');
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="../view/home.php">Home</a></li>
-                                            <li><a href="../view/appointment.php">Services</a></li>
+                                            <li><a href="../view/admin.php">Home</a></li>
+                                            <li><a href="../view/viewappointment.php"> Appointment </a></li>
                                         
-                                            <li><a href="../view/userprojectdetails.php">Project Details</a>
+                                            <li><a href="../view/vieworderd.php"> Orders </a>
                                                 
                                             </li>
                                             
