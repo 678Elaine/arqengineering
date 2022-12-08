@@ -80,7 +80,7 @@
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
                                             <li><a href="../view/home.php">Home</a></li>
-                                            <li><a href="../view/appointment.php">Services</a></li>
+                                            <li><a href="../view/appointment.php">Set an Appointment</a></li>
                                         
                                             <li><a href="../view/userprojectdetails.php">Project Details</a>
                                                 
