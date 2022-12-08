@@ -1,9 +1,13 @@
+<?php
+require('../settings/core.php');
+?>
+
 <!doctype html>
 <html class="no-js" lang="zxx">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title> Admin </title>
+        <title>ARQ Engineering</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
@@ -22,12 +26,6 @@
             <link rel="stylesheet" href="../view/assets/css/style.css">
    </head>
 
-   <?php
-
-   require('../settings/core.php');
-   require('../controllers/order_controller.php');
-
-   ?>
    <body>
     <!-- Preloader Start -->
     <div id="preloader-active">
@@ -43,7 +41,7 @@
     <!-- Preloader Start -->
     <header>
         <!-- Header Start -->
-        <div class="header-area header-transparent">
+       <div class="header-area header-transparent">
             <div class="main-header ">
                 <div class="header-top d-none d-lg-block">
                    <div class="container-fluid">
@@ -85,10 +83,10 @@
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="../view/admin.php">Home</a></li>
-                                            <li><a href="../view/viewappointment.php">Appointments</a></li>
+                                            <
+                                            <li><a href="../view/appointment.php">Services</a></li>
                                         
-                                            <li><a href="../view/vieworders.php"> Orders </a>
+                                            <li><a href="../view/userprojectdetails.php">Project Details</a>
                                                 
                                             </li>
                                             
@@ -98,7 +96,7 @@
                             </div>             
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="../index.php" class="btn"> Logout </a>
+                                    <a href="../actions/logout.php" class="btn"> Logout </a>
                             </div>
                             <!-- Mobile Menu -->
                             <div class="col-12">
@@ -161,79 +159,54 @@
             </div>
         </div>
         <!-- slider Area End-->
+
+
+
+
+        <!-- Order section start -->
+
+
+
+
+
+        <!-- Order section end -->
+
         
        
         <!-- Services Area Start -->
- <?php
+         <h1> Your Appointment has been made! </h1>
 
-$order=select_allorder();
-
-function display_allorder_fxn(){
-$run_item = select_allorder();
-    echo
-         "
-        <h3> Message </h3>
-        <table class='table table-dark table-striped table-bordered'>
-
-        <thead>
-             <tr>
-                <th> Order id  </th>
-                <th> Description </th>
-                <th> Customer email</th>
-                <th> Customer id  </th>
-                <th> Customer name  </th>
-                <th> Business </th>
-
-            </tr>
-        <thead>";
+        
+        
+<?php
 
 
-foreach($run_item as $row)
-{
-    echo 
-        "
-        <tbody>
-        <tr>
-        <td>".$row['orderid']."</td>
-        <td> ".$row['order_desc']."  </td>
-        <td> ".$row['customer_email']."  </td>
-        <td> ".$row['customer_id']."  </td>
-        <td> ".$row['customer_name']."  </td>
-        <td> ".$row['business_name']."  </td>
-        <td>
-        <button type ='button' name = 'reply'> <a href = '../actions/admin_reply.php?id=".$row['orderid']."'> Reply </a></button>
-         </td>
-         <td>
-        <button type ='button' name = 'update'> <a href = '../actions/updateorder.php?id=".$row['orderid']."'> Update </a></button>
-         </td>
-        <td>
-        <button type ='button' name = 'delete' ><a href = '../actions/deleteorder.php?id=".$row['orderid']."'> Delete </a></button>
-        </td>
-        ";
+require('../controllers/order_controller.php');
 
+//   if(isset($_GET['reply'])){
+  //$id = $_GET['id'];
 
-}
+// }
+$customerid = $_SESSION['customer_id'];
 
-echo 
-    " </tbody> </table>";
-
-}
-
-
-    display_allorder_fxn();
-
+         
+$appointment= check_appointment($customerid);
 
 ?>
+Message: <h4><?php echo $appointment["date"]    ?></h4>
+Message: <h4><?php echo $appointment["time"]    ?></h4>
 
-
+<button type ='button' name = 'delete' ><a href = '../actions/deleteorder.php?'> Delete  Appointment </a></button>
+         
+</br>
 
         <!-- Services Area End -->
                
 
     </main>
     <footer>
-        <!-- Footer Start-->
-        <div class="footer-main">
+      <!-- Footer Start-->
+      <div class="footer-main">
                 <div class="footer-area footer-padding">
                     <div class="container">
                         <div class="row  justify-content-between">
@@ -241,11 +214,11 @@ echo
                                 <div class="single-footer-caption mb-30">
                                     <!-- logo -->
                                     <div class="footer-logo">
-                                        <a href="index.html"><img src="../view/assets/img/logo/logo2_footer.png" alt=""></a>
+                                        <a href="index.php"><img src="view/assets/img/logo/logo2_footer.png" alt=""></a>
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
-                                            <p class="info1">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
+                                            <p class="info1">Your no. 1 electrical engineering company</p>
                                         </div>
                                     </div>
                                 </div>
@@ -268,11 +241,11 @@ echo
                                     <div class="footer-tittle">
                                         <h4>Contact</h4>
                                         <div class="footer-pera">
-                                            <p class="info1">198 West 21th Street, Suite 721 New York,NY 10010</p>
+                                            <p class="info1"> National Insurance Commission, Cantonments</p>
                                         </div>
                                         <ul>
-                                            <li><a href="#">Phone: +95 (0) 123 456 789</a></li>
-                                            <li><a href="#">Cell: +95 (0) 123 456 789</a></li>
+                                            <li><a href="#">Phone: +233 24 689 7189</a></li>
+                                            <li><a href="#">Cell: +233 50 179 6190</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -282,7 +255,7 @@ echo
                                     <!-- Form -->
                                     <div class="footer-form">
                                         <div id="mc_embed_signup">
-                                            <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative mail_part" novalidate="true">
+                                            <form target="_blank" action="../view/register.php" method="get" class="subscribe_form relative mail_part" novalidate="true">
                                                 <input type="email" name="EMAIL" id="newsletter-form-email" placeholder=" Email Address " class="placeholder hide-on-focus" onfocus="this.placeholder = ''" onblur="this.placeholder = ' Email Address '">
                                                 <div class="form-icon">
                                                     <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm">
@@ -295,7 +268,7 @@ echo
                                     </div>
                                     <!-- Map -->
                                     <div class="map-footer">
-                                        <img src="../view/assets/img/gallery/map-footer.png" alt="">
+                                        <img src="view/assets/img/gallery/map-footer.png" alt="">
                                     </div>
                                 </div>
                             </div>
