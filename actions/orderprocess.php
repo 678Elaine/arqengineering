@@ -108,6 +108,16 @@ if (isset($_POST['book'])){
  
 }
 
+if(isset($_POST['updateorder'])){
+    $id=$_POST['orderid'];
+    $updateresponse = $_POST['updateresponse'];
+
+    $results = update_order($id, $updateresponse);
+    if($results == true){header("Location: ../view/vieworders.php");
+}
+}
+
 ?>
+
 
 
