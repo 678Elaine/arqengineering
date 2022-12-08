@@ -204,10 +204,10 @@ foreach($userorder as $x)
         <td>".$x['order_desc']."</td>
         <td>".$x['admin_response']."</td>
         <td>
-        <button type ='button' name = 'update'> <a href = '../actions/admin_update.php?id=".$x['orderid']."'> Update </a></button>
+        <button type ='button' name = 'update'> <a href = '../actions/updateorder.php?id=".$x['orderid']."'> Update </a></button>
          </td>
         <td>
-        <button type ='button' name = 'delete' ><a href = '../actions/admin_delete.php?id=".$x['orderid']."'> Delete </a></button>
+        <button type ='button' name = 'delete' ><a href = '../actions/deleteorder.php?id=".$x['orderid']."'> Delete </a></button>
         </td>
         ";
 
