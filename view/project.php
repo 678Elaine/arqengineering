@@ -149,7 +149,7 @@
             </div>
         </div>
         <!-- slider Area End-->
-        <!-- Project Area Start -->
+ <!-- Project Area Start -->
         <section class="project-area  section-padding30">
             <div class="container">
                <div class="project-heading mb-35">
@@ -160,7 +160,7 @@
                                 <div class="front-text">
                                     <h2 class="">Our Projects</h2>
                                 </div>
-                                <span class="back-text">Gellary</span>
+                                <span class="back-text">Gallery</span>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -195,8 +195,8 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                    <h4><a href="project_details.html">Covid-19 Response Center</a></h4>
+                                                    <h4><a href="project_details.html">Ghana</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -206,9 +206,9 @@
                                                     <img src="assets/img/gallery/project2.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Shangai Tower</a></h4>
+                                                    <h4><a href="project_details.html">China</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -218,9 +218,9 @@
                                                     <img src="assets/img/gallery/project3.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Beau Maison</a></h4>
+                                                    <h4><a href="project_details.html">	Ghana </a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -230,8 +230,8 @@
                                                     <img src="assets/img/gallery/project4.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -242,9 +242,9 @@
                                                     <img src="assets/img/gallery/project5.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Shangai Tower</a></h4>
+                                                    <h4><a href="project_details.html">China</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -254,8 +254,8 @@
                                                     <img src="assets/img/gallery/project6.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -273,8 +273,8 @@
                                                     <img src="assets/img/gallery/project5.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -285,8 +285,8 @@
                                                     <img src="assets/img/gallery/project6.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -297,8 +297,8 @@
                                                     <img src="assets/img/gallery/project1.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -309,8 +309,8 @@
                                                     <img src="assets/img/gallery/project2.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -321,8 +321,8 @@
                                                     <img src="assets/img/gallery/project3.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -333,8 +333,8 @@
                                                     <img src="assets/img/gallery/project4.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -352,8 +352,8 @@
                                                     <img src="assets/img/gallery/project3.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -364,8 +364,8 @@
                                                     <img src="assets/img/gallery/project4.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -376,8 +376,8 @@
                                                     <img src="assets/img/gallery/project1.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -388,8 +388,8 @@
                                                     <img src="assets/img/gallery/project2.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -400,8 +400,8 @@
                                                     <img src="assets/img/gallery/project5.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -412,8 +412,8 @@
                                                     <img src="assets/img/gallery/project6.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -431,8 +431,8 @@
                                                     <img src="assets/img/gallery/project1.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -443,8 +443,8 @@
                                                     <img src="assets/img/gallery/project2.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -455,8 +455,8 @@
                                                     <img src="assets/img/gallery/project3.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -467,8 +467,8 @@
                                                     <img src="assets/img/gallery/project4.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -479,8 +479,8 @@
                                                     <img src="assets/img/gallery/project5.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -491,8 +491,8 @@
                                                     <img src="assets/img/gallery/project6.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -510,8 +510,8 @@
                                                     <img src="assets/img/gallery/project1.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -522,8 +522,8 @@
                                                     <img src="assets/img/gallery/project2.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -534,8 +534,8 @@
                                                     <img src="assets/img/gallery/project3.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -546,8 +546,8 @@
                                                     <img src="assets/img/gallery/project4.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -558,8 +558,8 @@
                                                     <img src="assets/img/gallery/project5.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
@@ -570,8 +570,8 @@
                                                     <img src="assets/img/gallery/project6.png" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
+                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
+                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
                                                     <h4><a href="project_details.html">Factory</a></h4>
                                                 </div>
                                             </div>
