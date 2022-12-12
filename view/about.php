@@ -87,13 +87,6 @@
                                                     <li><a href="single-blog.php">Blog Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="#">Pages</a>
-                                                <ul class="submenu">
-                                                    <li><a href="elements.php">Element</a></li>
-                                                    <li><a href="project_details.php">Projects Details</a></li>
-                                                    <li><a href="services_details.php">Services Details</a></li>
-                                                </ul>
-                                            </li>
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
