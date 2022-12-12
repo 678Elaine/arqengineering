@@ -3,27 +3,23 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Construction HTML-5 Template</title>
+        <title>ARQ Engineering</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
-		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
-
+		<link rel="shortcut icon" type="image/x-icon" href="view/assets/img/favicon.ico">
 		<!-- CSS here -->
-            <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-            <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-            <link rel="stylesheet" href="assets/css/gijgo.css">
-            <link rel="stylesheet" href="assets/css/slicknav.css">
-            <link rel="stylesheet" href="assets/css/animate.min.css">
-            <link rel="stylesheet" href="assets/css/magnific-popup.css">
-            <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-            <link rel="stylesheet" href="assets/css/themify-icons.css">
-            <link rel="stylesheet" href="assets/css/slick.css">
-            <link rel="stylesheet" href="assets/css/nice-select.css">
-            <link rel="stylesheet" href="assets/css/style.css">
-            <link rel="stylesheet" href="assets/css/responsive.css">
+            <link rel="stylesheet" href="view/assets/css/bootstrap.min.css">
+            <link rel="stylesheet" href="view/assets/css/owl.carousel.min.css">
+            <link rel="stylesheet" href="view/assets/css/slicknav.css">
+            <link rel="stylesheet" href="view/assets/css/animate.min.css">
+            <link rel="stylesheet" href="view/assets/css/magnific-popup.css">
+            <link rel="stylesheet" href="view/assets/css/fontawesome-all.min.css">
+            <link rel="stylesheet" href="view/assets/css/themify-icons.css">
+            <link rel="stylesheet" href="view/assets/css/slick.css">
+            <link rel="stylesheet" href="view/assets/css/nice-select.css">
+            <link rel="stylesheet" href="view/assets/css/style.css">
    </head>
-
    <body>
     <!-- Preloader Start -->
     <div id="preloader-active">
@@ -31,7 +27,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="assets/img/logo/loder-logo.png" alt="">
+                    <img src="view/assets/img/logo/loder-logo.png" alt="">
                 </div>
             </div>
         </div>
@@ -47,9 +43,9 @@
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="header-info-left">
                                     <ul>     
-                                        <li>+(123) 1234-567-8901</li>
-                                        <li>info@domain.com</li>
-                                        <li>Mon - Sat 8:00 - 17:30, Sunday - CLOSED</li>
+                                        <li>+233 24 689 7189</li>
+                                        <li>arqengineering@gmail.com</li>
+                                        <li>Mon - Sat 8:00 - 17:00, Sunday - CLOSED</li>
                                     </ul>
                                 </div>
                                 <div class="header-info-right">
@@ -71,9 +67,9 @@
                             <div class="col-xl-2 col-lg-2 col-md-1">
                                 <div class="logo">
                                     <!-- logo-1 -->
-                                    <a href="index.html" class="big-logo"><img src="assets/img/logo/logo.png" alt=""></a>
+                                    <a href="index.html" class="big-logo"><img src="view/assets/img/logo/logo.png" alt=""></a>
                                     <!-- logo-2 -->
-                                    <a href="index.html" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt=""></a>
+                                    <a href="index.html" class="small-logo"><img src="view/assets/img/logo/loder-logo.png" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-8 col-lg-8 col-md-8">
@@ -81,32 +77,31 @@
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="project.html">Projects</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="blog.html">Blog</a>
+                                            <li><a href="view/index.php">Home</a></li>
+                                            <li><a href="view/about.php">About</a></li>
+                                            <li><a href="view/project.php">Projects</a></li>
+                                            <li><a href="view/services.php">Services</a></li>
+                                            <li><a href="view/blog.php">Blog</a>
                                                 <ul class="submenu">
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="single-blog.html">Blog Details</a></li>
+                                                    <li><a href="view/blog.php">Blog</a></li>
+                                                    <li><a href="view/single-blog.php">Blog Details</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="#">Pages</a>
                                                 <ul class="submenu">
-                                                    <li><a href="elements.html">Element</a></li>
-                                                    <li><a href="project_details.html">Projects Details</a></li>
-                                                    <li><a href="services_details.html">Services Details</a></li>
+                                                    <li><a href="view/elements.php">Element</a></li>
+                                                    <li><a href="view/project_details.php">Projects Details</a></li>
+                                                    <li><a href="view/services_details.php">Services Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="view/contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
                             </div>             
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="#" class="btn">Contact Now</a>
-                                </div>
+                                    <a href="view/register.php" class="btn"> Sign Up </a>
                             </div>
                             <!-- Mobile Menu -->
                             <div class="col-12">
@@ -122,18 +117,45 @@
     <main>
         <!-- slider Area Start-->
         <div class="slider-area ">
-            <div class="single-slider hero-overly slider-height2 d-flex align-items-center" data-background="assets/img/hero/about.jpg">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="hero-cap pt-100">
-                                <h2>About us</h2>
-                                <nav aria-label="breadcrumb ">
-                                    <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="#">Product</a></li> 
-                                    </ol>
-                                </nav>
+            <div class="slider-active">
+                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="view/assets/img/hero/h1_hero.jpg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-11">
+                                <div class="hero__caption">
+                                    <div class="hero-text1">
+                                        <span data-animation="fadeInUp" data-delay=".3s">engineering services</span>
+                                    </div>
+                                    <h1 data-animation="fadeInUp" data-delay=".5s">ARQ </h1>
+                                    <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
+                                        <h2>Engineering</h2>
+                                        <h2>Engineering</h2>
+                                    </div>
+                                    <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
+                                       <span><a href="services.html">Our Services</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="view/assets/img/hero/h1_hero.jpg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-11">
+                                <div class="hero__caption">
+                                    <div class="hero-text1">
+                                        <span data-animation="fadeInUp" data-delay=".3s">electrics and electronice</span>
+                                    </div>
+                                    <h1 data-animation="fadeInUp" data-delay=".5s">advanced</h1>
+                                    <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
+                                        <h2>ARQ Engineering</h2>
+                                        <h2>ARQ Engineering</h2>
+                                    </div>
+                                    <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
+                                        <span><a href="services.html">Our Services</a></span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
