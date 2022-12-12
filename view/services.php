@@ -3,16 +3,14 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Construction HTML-5 Template</title>
+        <title>ARQ Engineering</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
 		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
-
 		<!-- CSS here -->
             <link rel="stylesheet" href="assets/css/bootstrap.min.css">
             <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-            <link rel="stylesheet" href="assets/css/gijgo.css">
             <link rel="stylesheet" href="assets/css/slicknav.css">
             <link rel="stylesheet" href="assets/css/animate.min.css">
             <link rel="stylesheet" href="assets/css/magnific-popup.css">
@@ -21,9 +19,7 @@
             <link rel="stylesheet" href="assets/css/slick.css">
             <link rel="stylesheet" href="assets/css/nice-select.css">
             <link rel="stylesheet" href="assets/css/style.css">
-            <link rel="stylesheet" href="assets/css/responsive.css">
    </head>
-
    <body>
     <!-- Preloader Start -->
     <div id="preloader-active">
@@ -47,17 +43,16 @@
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="header-info-left">
                                     <ul>     
-                                        <li>+(123) 1234-567-8901</li>
-                                        <li>info@domain.com</li>
-                                        <li>Mon - Sat 8:00 - 17:30, Sunday - CLOSED</li>
+                                        <li>+233 24 689 7189</li>
+                                        <li>arqengineering@gmail.com</li>
+                                        <li>Mon - Sat 8:00 - 17:00, Sunday - CLOSED</li>
                                     </ul>
                                 </div>
                                 <div class="header-info-right">
                                     <ul class="header-social">    
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                       <li> <a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                       
+                                        <li><a href="https://gh.linkedin.com/in/ebenezer-roberts-18764416"><i class="fab fa-linkedin-in"></i></a></li>
+                                    
                                     </ul>
                                 </div>
                             </div>
@@ -81,32 +76,24 @@
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="project.html">Projects</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="blog.html">Blog</a>
+                                            <li><a href="../index.php">Home</a></li>
+                                            <li><a href="about.php">About</a></li>
+                                            <li><a href="project.php">Projects</a></li>
+                                            <li><a href="services.php">Services</a></li>
+                                            <li><a href="blog.php">Blog</a>
                                                 <ul class="submenu">
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="single-blog.html">Blog Details</a></li>
+                                                    <li><a href="blog.php">Blog</a></li>
+                                                    <li><a href="single-blog.php">Blog Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="#">Pages</a>
-                                                <ul class="submenu">
-                                                    <li><a href="elements.html">Element</a></li>
-                                                    <li><a href="project_details.html">Projects Details</a></li>
-                                                    <li><a href="services_details.html">Services Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="contact.html">Contact</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
                             </div>             
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="#" class="btn">Contact Now</a>
-                                </div>
+                                    <a href="view/register.php" class="btn"> Sign Up </a>
                             </div>
                             <!-- Mobile Menu -->
                             <div class="col-12">
@@ -122,18 +109,45 @@
     <main>
         <!-- slider Area Start-->
         <div class="slider-area ">
-            <div class="single-slider hero-overly slider-height2 d-flex align-items-center" data-background="assets/img/hero/about.jpg">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="hero-cap pt-100">
-                                <h2>Services</h2>
-                                <nav aria-label="breadcrumb ">
-                                    <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="#">Services</a></li> 
-                                    </ol>
-                                </nav>
+            <div class="slider-active">
+                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.jpg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-11">
+                                <div class="hero__caption">
+                                    <div class="hero-text1">
+                                        <span data-animation="fadeInUp" data-delay=".3s">engineering services</span>
+                                    </div>
+                                    <h1 data-animation="fadeInUp" data-delay=".5s">ARQ </h1>
+                                    <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
+                                        <h2>Engineering</h2>
+                                        <h2>Engineering</h2>
+                                    </div>
+                                    <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
+                                       <span><a href="services.html">Our Services</a></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="view/assets/img/hero/h1_hero.jpg">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-11">
+                                <div class="hero__caption">
+                                    <div class="hero-text1">
+                                        <span data-animation="fadeInUp" data-delay=".3s">electrics and electronice</span>
+                                    </div>
+                                    <h1 data-animation="fadeInUp" data-delay=".5s">advanced</h1>
+                                    <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
+                                        <h2>ARQ Engineering</h2>
+                                        <h2>ARQ Engineering</h2>
+                                    </div>
+                                    <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
+                                        <span><a href="services.html">Our Services</a></span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -141,109 +155,6 @@
             </div>
         </div>
         <!-- slider Area End-->
-        <!-- Services Area Start -->
-        <div class="services-area1 section-padding30">
-            <div class="container">
-                <!-- section tittle -->
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="section-tittle mb-55">
-                            <div class="front-text">
-                                <h2 class="">Our Services</h2>
-                            </div>
-                            <span class="back-text">Services</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="single-service-cap mb-30">
-                            <div class="service-img">
-                                <img src="assets/img/service/servicess1.png" alt="">
-                            </div>
-                            <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
-                            </div>
-                            <div class="service-icon">
-                                <img src="assets/img/icon/services_icon1.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="single-service-cap mb-30">
-                            <div class="service-img">
-                                <img src="assets/img/service/servicess2.png" alt="">
-                            </div>
-                            <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
-                            </div>
-                            <div class="service-icon">
-                                <img src="assets/img/icon/services_icon1.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="single-service-cap mb-30">
-                            <div class="service-img">
-                                <img src="assets/img/service/servicess3.png" alt="">
-                            </div>
-                            <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
-                            </div>
-                            <div class="service-icon">
-                                <img src="assets/img/icon/services_icon1.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="single-service-cap mb-30">
-                            <div class="service-img">
-                                <img src="assets/img/service/servicess4.png" alt="">
-                            </div>
-                            <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
-                            </div>
-                            <div class="service-icon">
-                                <img src="assets/img/icon/services_icon1.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="single-service-cap mb-30">
-                            <div class="service-img">
-                                <img src="assets/img/service/servicess5.png" alt="">
-                            </div>
-                            <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
-                            </div>
-                            <div class="service-icon">
-                                <img src="assets/img/icon/services_icon1.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-4 col-lg-4 col-md-6">
-                        <div class="single-service-cap mb-30">
-                            <div class="service-img">
-                                <img src="assets/img/service/servicess6.png" alt="">
-                            </div>
-                            <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="" class="more-btn">Read More <i class="ti-plus"></i></a>
-                            </div>
-                            <div class="service-icon">
-                                <img src="assets/img/icon/services_icon1.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Services Area End -->
     </main>
     <footer>
         <!-- Footer Start-->
