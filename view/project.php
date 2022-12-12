@@ -80,12 +80,6 @@
                                             <li><a href="about.php">About</a></li>
                                             <li><a href="project.php">Projects</a></li>
                                             <li><a href="services.php">Services</a></li>
-                                            <li><a href="blog.php">Blog</a>
-                                                <ul class="submenu">
-                                                    <li><a href="blog.php">Blog</a></li>
-                                                    <li><a href="single-blog.php">Blog Details</a></li>
-                                                </ul>
-                                            </li>
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
