@@ -81,7 +81,7 @@
                                             <li><a href="view/index.php">Home</a></li>
                                             <li><a href="view/about.php">About</a></li>
                                             <li><a href="view/project.php">Projects</a></li>
-                                            <li><a href="view/services.php">Services</a></li>
+                                            
                                          
                                             <li><a href="view/contact.php">Contact</a></li>
                                         </ul>
