@@ -164,7 +164,7 @@
         </div>
         <!-- slider Area End-->
         <!-- About Area Start -->
-        <section class="support-company-area fix pt-10 section-padding30">
+        <section class="support-company-area fix pt-10">
             <div class="support-wrapper align-items-end">
                 <div class="left-content">
                     <!-- section tittle -->
@@ -175,15 +175,15 @@
                         <span class="back-text">About us</span>
                     </div>
                     <div class="support-caption">
-                        <p class="pera-top">Mollit anim laborum duis au dolor in voluptcate velit ess cillum dolore eu lore dsu quality mollit anim laborumuis au dolor in voluptate velit cillu.</p>
-                        <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim.</p>
+                        <p class="pera-top"> ARQ Engineering was founded on 5th July 2010. The CEO is Mr. Ebenezer Roberts and the company is made of a total of 10 employees. </p>
+                        <p>Even as a small business, it has won many awards and is registered with the Ghana Institute of Engineers(GhIE). The vision of the organization is to provide quality electrical engineering services through consultancy</p>
                         <a href="about.html" class="btn red-btn2">read more</a>
                     </div>
                 </div>
                 <div class="right-content">
                     <!-- img -->
                     <div class="right-img">
-                        <img src="img/gallery/safe_in.png" alt="">
+                        <img src="assets/img/gallery/safe_in.png" alt="">
                     </div>
                     <div class="support-img-cap text-center">
                         <span>1994</span>
@@ -192,8 +192,8 @@
                 </div>
             </div>
         </section>
-        <!-- About Area End --> 
-        <!-- Testimonial Start -->
+        <!-- About Area End -->
+       <!-- Testimonial Start -->
         <div class="testimonial-area t-bg testimonial-padding">
             <div class="container ">
                 <div class="row">
@@ -220,13 +220,13 @@
                                         <path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(255, 95, 19)" fill-opacity="0" fill="rgb(0, 0, 0)"
                                         d="M82.623,59.861 L48.661,59.861 L48.661,25.988 L59.982,3.406 L76.963,3.406 L65.642,25.988 L82.623,25.988 L82.623,59.861 ZM3.377,25.988 L14.698,3.406 L31.679,3.406 L20.358,25.988 L37.340,25.988 L37.340,59.861 L3.377,59.861 L3.377,25.988 Z"/>
                                         </svg>
-                                        <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim. Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjn.</p>
+                                        <p> ARQ engineering worked on a recent project with a chinese national and was retained after being commended for an excellent work done</p>
                                     </div>
                                     <!-- founder -->
                                     <div class="testimonial-founder d-flex align-items-center">
                                        <div class="founder-text">
-                                            <span>Jessya Inn</span>
-                                            <p>Co Founder</p>
+                                            <span> Choi </span>
+                                            <p> Founder</p>
                                        </div>
                                     </div>
                                 </div>
@@ -241,12 +241,12 @@
                                         <path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(255, 95, 19)" fill-opacity="0" fill="rgb(0, 0, 0)"
                                         d="M82.623,59.861 L48.661,59.861 L48.661,25.988 L59.982,3.406 L76.963,3.406 L65.642,25.988 L82.623,25.988 L82.623,59.861 ZM3.377,25.988 L14.698,3.406 L31.679,3.406 L20.358,25.988 L37.340,25.988 L37.340,59.861 L3.377,59.861 L3.377,25.988 Z"/>
                                         </svg>
-                                        <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim. Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjn.</p>
+                                        <p> The work ARQ engineering does is exceptional and must be celebrated. Would definitely call them again </p>
                                     </div>
                                     <!-- founder -->
                                     <div class="testimonial-founder d-flex align-items-center">
                                        <div class="founder-text">
-                                            <span>Jessya Inn</span>
+                                            <span>Jessica Michelle</span>
                                             <p>Co Founder</p>
                                        </div>
                                     </div>
@@ -313,90 +313,91 @@
         <!-- Team End -->
     </main>
    <footer>
-       <!-- Footer Start-->
-       <div class="footer-main">
-            <div class="footer-area footer-padding">
-                <div class="container">
-                    <div class="row  justify-content-between">
-                        <div class="col-lg-4 col-md-4 col-sm-8">
-                            <div class="single-footer-caption mb-30">
-                                <!-- logo -->
-                                <div class="footer-logo">
-                                    <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+      <footer>
+        <!-- Footer Start-->
+        <div class="footer-main">
+                <div class="footer-area footer-padding">
+                    <div class="container">
+                        <div class="row  justify-content-between">
+                            <div class="col-lg-4 col-md-4 col-sm-8">
+                                <div class="single-footer-caption mb-30">
+                                    <!-- logo -->
+                                    <div class="footer-logo">
+                                        <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                    </div>
+                                    <div class="footer-tittle">
+                                        <div class="footer-pera">
+                                            <p class="info1">Your no. 1 electrical engineering company</p>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="footer-tittle">
-                                    <div class="footer-pera">
-                                        <p class="info1">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore.</p>
+                            </div>
+                            <div class="col-lg-2 col-md-4 col-sm-5">
+                                <div class="single-footer-caption mb-50">
+                                    <div class="footer-tittle">
+                                        <h4>Quick Links</h4>
+                                        <ul>
+                                            <li><a href="#">About</a></li>
+                                            <li><a href="#">Services</a></li>
+                                            <li><a href="#">Projects</a></li>
+                                            <li><a href="#">Contact Us</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-4 col-sm-7">
+                                <div class="single-footer-caption mb-50">
+                                    <div class="footer-tittle">
+                                        <h4>Contact</h4>
+                                        <div class="footer-pera">
+                                            <p class="info1"> National Insurance Commission, Cantonments</p>
+                                        </div>
+                                        <ul>
+                                            <li><a href="#">Phone: +233 24 689 7189</a></li>
+                                            <li><a href="#">Cell: +233 50 179 6190</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-3 col-md-6 col-sm-8">
+                                <div class="single-footer-caption mb-50">
+                                    <!-- Form -->
+                                    <div class="footer-form">
+                                        <div id="mc_embed_signup">
+                                            <form target="_blank" action="register.php" method="get" class="subscribe_form relative mail_part" novalidate="true">
+                                                <input type="email" name="EMAIL" id="newsletter-form-email" placeholder=" Email Address " class="placeholder hide-on-focus" onfocus="this.placeholder = ''" onblur="this.placeholder = ' Email Address '">
+                                                <div class="form-icon">
+                                                    <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm">
+                                                        SIGN UP
+                                                    </button>
+                                                </div>
+                                                <div class="mt-10 info"></div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                    <!-- Map -->
+                                    <div class="map-footer">
+                                        <img src="assets/img/gallery/map-footer.png" alt="">
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-2 col-md-4 col-sm-5">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4>Quick Links</h4>
-                                    <ul>
-                                        <li><a href="#">About</a></li>
-                                        <li><a href="#">Services</a></li>
-                                        <li><a href="#">Projects</a></li>
-                                        <li><a href="#">Contact Us</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-7">
-                            <div class="single-footer-caption mb-50">
-                                <div class="footer-tittle">
-                                    <h4>Contact</h4>
-                                    <div class="footer-pera">
-                                        <p class="info1">198 West 21th Street,
-                                            Suite 721 New York,NY 10010</p>
-                                    </div>
-                                    <ul>
-                                        <li><a href="#">Phone: +95 (0) 123 456 789</a></li>
-                                        <li><a href="#">Cell: +95 (0) 123 456 789</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6 col-sm-8">
-                            <div class="single-footer-caption mb-50">
-                                <!-- Form -->
-                                <div class="footer-form">
-                                    <div id="mc_embed_signup">
-                                        <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative mail_part" novalidate="true">
-                                            <input type="email" name="EMAIL" id="newsletter-form-email" placeholder=" Email Address " class="placeholder hide-on-focus" onfocus="this.placeholder = ''" onblur="this.placeholder = ' Email Address '">
-                                            <div class="form-icon">
-                                                <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm">
-                                                    SIGN UP
-                                                </button>
-                                            </div>
-                                            <div class="mt-10 info"></div>
-                                        </form>
-                                    </div>
-                                </div>
-                                <!-- Map -->
-                                <div class="map-footer">
-                                    <img src="assets/img/gallery/map-footer.png" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Copy-Right -->
-                    <div class="row align-items-center">
-                        <div class="col-xl-12 ">
-                            <div class="footer-copy-right">
-                                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        <!-- Copy-Right -->
+                        <div class="row align-items-center">
+                            <div class="col-xl-12 ">
+                                <div class="footer-copy-right">
+                                    <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
   Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-      </div>
-       <!-- Footer End-->
-   </footer>
+        </div>
+        <!-- Footer End-->
+    </footer>
+   
    
 	<!-- JS here -->
 	
