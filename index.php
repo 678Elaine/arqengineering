@@ -52,10 +52,9 @@
                                 </div>
                                 <div class="header-info-right">
                                     <ul class="header-social">    
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                       <li> <a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                       
+                                        <li><a href="https://gh.linkedin.com/in/ebenezer-roberts-18764416"><i class="fab fa-linkedin-in"></i></a></li>
+                                       
                                     </ul>
                                 </div>
                             </div>
@@ -69,9 +68,9 @@
                             <div class="col-xl-2 col-lg-2 col-md-1">
                                 <div class="logo">
                                     <!-- logo-1 -->
-                                    <a href="index.html" class="big-logo"><img src="view/assets/img/logo/logo.png" alt=""></a>
+                                    <a href="index.php" class="big-logo"><img src="view/assets/img/logo/logo.png" alt=""></a>
                                     <!-- logo-2 -->
-                                    <a href="index.html" class="small-logo"><img src="view/assets/img/logo/loder-logo.png" alt=""></a>
+                                    <a href="index.php" class="small-logo"><img src="view/assets/img/logo/loder-logo.png" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-8 col-lg-8 col-md-8">
@@ -83,13 +82,7 @@
                                             <li><a href="view/about.php">About</a></li>
                                             <li><a href="view/project.php">Projects</a></li>
                                             <li><a href="view/services.php">Services</a></li>
-                                            <li><a href="view/blog.php">Blog</a>
-                                                <ul class="submenu">
-                                                    <li><a href="view/blog.php">Blog</a></li>
-                                                    <li><a href="view/single-blog.php">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                     
+                                         
                                             <li><a href="view/contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
