@@ -7,18 +7,18 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
-		<link rel="shortcut icon" type="image/x-icon" href="view/assets/img/favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 		<!-- CSS here -->
-            <link rel="stylesheet" href="view/assets/css/bootstrap.min.css">
-            <link rel="stylesheet" href="view/assets/css/owl.carousel.min.css">
-            <link rel="stylesheet" href="view/assets/css/slicknav.css">
-            <link rel="stylesheet" href="view/assets/css/animate.min.css">
-            <link rel="stylesheet" href="view/assets/css/magnific-popup.css">
-            <link rel="stylesheet" href="view/assets/css/fontawesome-all.min.css">
-            <link rel="stylesheet" href="view/assets/css/themify-icons.css">
-            <link rel="stylesheet" href="view/assets/css/slick.css">
-            <link rel="stylesheet" href="view/assets/css/nice-select.css">
-            <link rel="stylesheet" href="view/assets/css/style.css">
+            <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+            <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+            <link rel="stylesheet" href="assets/css/slicknav.css">
+            <link rel="stylesheet" href="assets/css/animate.min.css">
+            <link rel="stylesheet" href="assets/css/magnific-popup.css">
+            <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+            <link rel="stylesheet" href="assets/css/themify-icons.css">
+            <link rel="stylesheet" href="assets/css/slick.css">
+            <link rel="stylesheet" href="assets/css/nice-select.css">
+            <link rel="stylesheet" href="assets/css/style.css">
    </head>
    <body>
     <!-- Preloader Start -->
@@ -27,7 +27,7 @@
             <div class="preloader-inner position-relative">
                 <div class="preloader-circle"></div>
                 <div class="preloader-img pere-text">
-                    <img src="view/assets/img/logo/loder-logo.png" alt="">
+                    <img src="assets/img/logo/loder-logo.png" alt="">
                 </div>
             </div>
         </div>
@@ -67,9 +67,9 @@
                             <div class="col-xl-2 col-lg-2 col-md-1">
                                 <div class="logo">
                                     <!-- logo-1 -->
-                                    <a href="index.html" class="big-logo"><img src="view/assets/img/logo/logo.png" alt=""></a>
+                                    <a href="index.html" class="big-logo"><img src="assets/img/logo/logo.png" alt=""></a>
                                     <!-- logo-2 -->
-                                    <a href="index.html" class="small-logo"><img src="view/assets/img/logo/loder-logo.png" alt=""></a>
+                                    <a href="index.html" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt=""></a>
                                 </div>
                             </div>
                             <div class="col-xl-8 col-lg-8 col-md-8">
@@ -77,24 +77,24 @@
                                 <div class="main-menu f-right d-none d-lg-block">
                                     <nav> 
                                         <ul id="navigation">                                                                                                                   
-                                            <li><a href="view/index.php">Home</a></li>
-                                            <li><a href="view/about.php">About</a></li>
-                                            <li><a href="view/project.php">Projects</a></li>
-                                            <li><a href="view/services.php">Services</a></li>
-                                            <li><a href="view/blog.php">Blog</a>
+                                            <li><a href="index.php">Home</a></li>
+                                            <li><a href="about.php">About</a></li>
+                                            <li><a href="project.php">Projects</a></li>
+                                            <li><a href="services.php">Services</a></li>
+                                            <li><a href="blog.php">Blog</a>
                                                 <ul class="submenu">
-                                                    <li><a href="view/blog.php">Blog</a></li>
-                                                    <li><a href="view/single-blog.php">Blog Details</a></li>
+                                                    <li><a href="blog.php">Blog</a></li>
+                                                    <li><a href="single-blog.php">Blog Details</a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="#">Pages</a>
                                                 <ul class="submenu">
-                                                    <li><a href="view/elements.php">Element</a></li>
-                                                    <li><a href="view/project_details.php">Projects Details</a></li>
-                                                    <li><a href="view/services_details.php">Services Details</a></li>
+                                                    <li><a href="elements.php">Element</a></li>
+                                                    <li><a href="project_details.php">Projects Details</a></li>
+                                                    <li><a href="services_details.php">Services Details</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="view/contact.php">Contact</a></li>
+                                            <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -118,7 +118,7 @@
         <!-- slider Area Start-->
         <div class="slider-area ">
             <div class="slider-active">
-                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="view/assets/img/hero/h1_hero.jpg">
+                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.jpg">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-11">
@@ -183,7 +183,7 @@
                 <div class="right-content">
                     <!-- img -->
                     <div class="right-img">
-                        <img src="assets/img/gallery/safe_in.png" alt="">
+                        <img src="img/gallery/safe_in.png" alt="">
                     </div>
                     <div class="support-img-cap text-center">
                         <span>1994</span>
