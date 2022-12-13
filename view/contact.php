@@ -195,7 +195,7 @@
                                 </div>
                             </div>
                             <div class="form-group mt-3">
-                                <input type="submit" class="button button-contactForm boxed-btn"  name="send">
+                                <input type="submit" class="button button-contactForm boxed-btn"  name="submit">
                             </div>
                         </form>
                     </div>
