@@ -117,6 +117,42 @@ if(isset($_POST['updateorder'])){
 }
 }
 
+//collecting form data
+if (isset($_POST['submit'])){
+
+    $username= $_POST['name'];
+   
+    $usermail= $_POST['email'];
+   
+    $orderdesc= $_POST['message'];
+    
+    $businessname= $_POST['subject'];
+
+    $customerid = $_SESSION['customer_id'];
+
+    echo $username;
+    echo $usermail;
+    echo $orderdesc;
+    echo $businessname;
+    echo $customerid;
+
+    
+
+   $Save = insert_order($orderdesc,$usermail,$customerid,$username,$businessname);
+
+
+
+    if ($Save == true){
+        header("location: ../view/contact.php");
+    } else{
+     header("location: ../view/contact.php");
+    }
+
+    var_dump($Send);
+
+ 
+}
+
 ?>
 
 
